@@ -4,7 +4,7 @@ I'm a third-year student in a Computer Science Technology DEC 💻
 ### I love both web development & mobile development, with a special passion for **ReactJS & Flutter**
 I also have experience in many programming languages such as:
 
-- ReactJS, HTML, CSS, Javascript, Flutter, Java, C#, Typescript, Python, Lua, & more!
+- ReactJS, HTML, CSS, Javascript, Flutter, Dart, Java, C#, Typescript, Python, Lua, & more!
 
 Fun facts:
 - I'm currently working on an indie video game on Godot 4 👾
