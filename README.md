@@ -5,8 +5,8 @@ I'm a third-year student in a Computer Science Technology DEC 💻
 I also have experience in many programming languages such as:
 
 - ReactJS, Flutter, Java, C#, HTML, CSS, Javascript, Typescript, Python, Lua, & more!
-Fun facts:
 
+Fun facts:
 - I'm currently working on an indie video game on Godot 4 👾
 - I enjoy making music & DJing in my free time 🎵
 
