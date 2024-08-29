@@ -1,16 +1,13 @@
-## Hi there 👋
+##Hola, I'm Santi!👋🏽
+I'm a third-year student in a Computer Science Technology DEC 💻
 
-<!--
-**santiagu-gap/santiagu-gap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##I love both web development & mobile development, with a special passion for **ReactJS & Flutter**
+I also have experience in many programming languages such as:
 
-Here are some ideas to get you started:
+- ReactJS, Flutter, Java, C#, HTML, CSS, Javascript, Typescript, Python, Lua, & more!
+Fun facts:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm currently working on an indie video game on Godot 4 👾
+- I enjoy making music & DJing in my free time 🎵
+
+I love meeting cool people! Reach out to me on [LinkedIn](https://www.linkedin.com/in/santiago-garcia-620301244/) 😁 
