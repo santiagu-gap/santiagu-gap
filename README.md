@@ -1,7 +1,7 @@
-##Hola, I'm Santi!👋🏽
+## Hola, I'm Santi!👋🏽
 I'm a third-year student in a Computer Science Technology DEC 💻
 
-##I love both web development & mobile development, with a special passion for **ReactJS & Flutter**
+## I love both web development & mobile development, with a special passion for **ReactJS & Flutter**
 I also have experience in many programming languages such as:
 
 - ReactJS, Flutter, Java, C#, HTML, CSS, Javascript, Typescript, Python, Lua, & more!
